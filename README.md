@@ -124,7 +124,7 @@ controller acts on it, and how the two meet in **embodied intelligence**.
         <img src="https://img.shields.io/badge/Edge%20AI-22C55E?style=flat-square" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
-      <p align="center">🔗 <a href="#">Repository</a></p>
+      <p align="center">🔗 <a href="https://github.com/PtPPPPP/yunxun">Repository</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🍅 YOLOv8 Tomato Detection</h3>
